@@ -1,3 +1,8 @@
+/* 
+Make it more challeging BY asking for a low number "example 10" 
+and a high number "example 25" and generate a random number in between
+*/
+
 // collect input from a user
 const numberRequest = prompt('Please give a number!');
 
