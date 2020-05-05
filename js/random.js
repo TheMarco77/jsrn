@@ -6,6 +6,8 @@ and a high number "example 25" and generate a random number in between
 // collect input from a user
 const numberRequest = prompt('Please give a number!');
 
+// collect another input from the user 
+
 // Convert the input to a number
 const number = parseInt(numberRequest);
 
